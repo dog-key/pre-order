@@ -1,0 +1,8 @@
+{
+  "name": "Copy of QuickPick: Pre-Order & Pickup",
+  "description": "Skip the line. Pre-order food and groceries from nearby shops at store prices and pick them up when you arrive.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
